@@ -10,3 +10,12 @@ Then, open a terminal and run the following commands:
 `pip install sympy numpy matplotlib`
 
 Which are some basic dependencies needed to run the python files in your local machine.
+
+## Matlab && GNU Octave
+
+These are the two programs used for the ".m" source files. I personally prefer GNU Octave, but any software that can process these files should work.
+
+Go check them out: 
+
+https://octave.org/
+https://www.mathworks.com/products/matlab.html
