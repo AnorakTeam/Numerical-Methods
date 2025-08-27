@@ -1,6 +1,9 @@
 # Numerical-Methods
 The resources that i've scattered around the semester for Numerical Analysis, it contains python-matlab source code and obsidian-markdown notes of classes.
 
+## How do i use the resources in this repository?
+Check the notes inside the notes folder, and if you want to check the algorithms take a look at the source code.
+
 ## Installing dependencies
 
 If you are in windows, first make sure to have python3 and pip installed, any recent version should do the work.
